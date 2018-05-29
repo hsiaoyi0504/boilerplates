@@ -9,3 +9,7 @@ Write a brief introduction of project here.
 ## Usage
 
 ## Documentation (optional)
+
+## Limitations (Know Issues) (optional)
+
+## Notes (optional)
